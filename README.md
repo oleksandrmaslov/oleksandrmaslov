@@ -1,5 +1,3 @@
-<img src="assets/profile-banner.svg" alt="Oleksandr Maslov — hardware, firmware, and interaction" width="1200" />
-
 I build the device. Then the firmware. Then the tools that put it in someone’s hands.
 
 I’m a product-minded designer and embedded developer in Munich. My work crosses custom hardware, Zephyr firmware, interfaces, and the tools around them.
